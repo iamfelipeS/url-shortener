@@ -49,9 +49,7 @@ dedicados.
    git clone https://github.com/usuario/url-shortener.git
    cd url-shortener
 
-2. Instale as dependências
-   ```bash
-   npm install
+
 
 ### 🚀 Deploy na AWS:
 
