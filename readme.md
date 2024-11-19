@@ -65,5 +65,5 @@ dedicados.
 
 
 ### 🧪 Testes
-Utilize ferramentas como [#Postman](https://www.postman.com) ou URL para testar as APIs geradas pelo API Gateway.  
+Utilize ferramentas como [#Postman](https://www.postman.com) Para testar as APIs geradas pelo API Gateway.  
 Exemplos de endpoints e payloads estão no arquivo docs/endpoints.md
