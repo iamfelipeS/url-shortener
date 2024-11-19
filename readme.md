@@ -49,9 +49,7 @@ dedicados.
    git clone https://github.com/usuario/url-shortener.git
    cd url-shortener
 
-2. Instale as dependências
-   ```bash
-   npm install
+
 
 ### 🚀 Deploy na AWS:
 
@@ -65,5 +63,4 @@ dedicados.
 
 
 ### 🧪 Testes
-Utilize ferramentas como [#Postman](https://www.postman.com) ou URL para testar as APIs geradas pelo API Gateway.  
-Exemplos de endpoints e payloads estão no arquivo docs/endpoints.md
+Utilize ferramentas como [#Postman](https://www.postman.com) Para testar as APIs geradas pelo API Gateway.  
